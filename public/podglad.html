@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zero Resztek — podgląd w ramce telefonu</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh;
+    background: #17181A; color: #E8E8E6;
+    font: 14px/1.5 -apple-system, "Segoe UI", system-ui, sans-serif;
+    display: flex; flex-direction: column; align-items: center; gap: 20px;
+    padding: 24px 16px 48px;
+  }
+  header { text-align: center; }
+  h1 { margin: 0 0 4px; font-size: 17px; font-weight: 600; }
+  p  { margin: 0; color: #9A9A96; font-size: 13px; max-width: 60ch; }
+  .bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: center; }
+  button {
+    font: inherit; color: #E8E8E6; background: #232427;
+    border: 1px solid #33343833; border-radius: 8px;
+    padding: 7px 13px; cursor: pointer;
+  }
+  button:hover { background: #2C2D31; }
+  button[aria-pressed="true"] { background: #2D5A3D; border-color: #2D5A3D; color: #fff; }
+  .phone {
+    background: #0B0B0C; border-radius: 26px; padding: 10px;
+    box-shadow: 0 30px 70px #0008, 0 0 0 1px #FFFFFF14;
+    flex: none;
+  }
+  .screenWrap { position: relative; border-radius: 18px; overflow: hidden; background: #fff; }
+  iframe { display: block; border: 0; background: #fff; }
+  .size { color: #6E6F73; font-size: 12px; font-variant-numeric: tabular-nums; }
+  .warn {
+    max-width: 62ch; background: #2A2418; border: 1px solid #4A3D22;
+    color: #D9C89B; border-radius: 8px; padding: 10px 14px; font-size: 12.5px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Zero Resztek — podgląd</h1>
+  <p>Aplikacja renderowana przez react-native-web w oknie o proporcjach telefonu.</p>
+</header>
+
+<div class="bar" id="devices"></div>
+
+<div class="phone">
+  <div class="screenWrap">
+    <iframe id="app" src="/" title="Zero Resztek"></iframe>
+  </div>
+</div>
+
+<div class="bar">
+  <button id="reload">Przeładuj</button>
+  <button id="wipe">Wyczyść dane i przeładuj</button>
+  <button id="seed">Wypełnij spiżarnię</button>
+  <span class="size" id="size"></span>
+  <span class="size" id="diag"></span>
+</div>
+
+<div class="warn">
+  To jest render webowy, nie iOS. Logika, teksty i przepływ ekranów są prawdziwe,
+  ale czcionki, wysokość zakładek i bezpieczne marginesy będą na iPhonie wyglądać inaczej.
+  Błędów układu specyficznych dla iOS ten podgląd nie pokaże.
+</div>
+
+<script>
+  const DEVICES = [
+    { name: 'iPhone SE',        w: 375, h: 667 },
+    { name: 'iPhone 15',        w: 393, h: 852 },
+    { name: 'iPhone 15 Pro Max',w: 430, h: 932 },
+    { name: 'Mały Android',     w: 360, h: 740 },
+  ];
+
+  const frame  = document.getElementById('app');
+  const sizeEl = document.getElementById('size');
+  const bar    = document.getElementById('devices');
+
+  function pick(index) {
+    const d = DEVICES[index];
+    frame.style.width  = d.w + 'px';
+    frame.style.height = d.h + 'px';
+    sizeEl.textContent = d.w + ' × ' + d.h + ' px';
+    [...bar.children].forEach((b, i) => b.setAttribute('aria-pressed', String(i === index)));
+    localStorage.setItem('zr.preview.device', String(index));
+  }
+
+  DEVICES.forEach((d, i) => {
+    const b = document.createElement('button');
+    b.textContent = d.name;
+    b.onclick = () => pick(i);
+    bar.appendChild(b);
+  });
+
+  document.getElementById('reload').onclick = () => {
+    frame.contentWindow.location.reload();
+  };
+
+  // Aplikacja trzyma stan w localStorage tego samego adresu, wiec da sie
+  // wrocic do czystej instalacji bez grzebania w narzedziach przegladarki.
+  document.getElementById('wipe').onclick = () => {
+    for (const key of Object.keys(localStorage)) {
+      if (key.startsWith('zr.') && !key.startsWith('zr.preview')) localStorage.removeItem(key);
+    }
+    frame.contentWindow.location.replace('/');
+  };
+
+  // Spizarnia z danymi testowymi. Pozwala od razu zobaczyc statusy
+  // skladnikow, w tym bursztynowe "prawie", bez recznego odhaczania zakupow.
+  function seedPantry() {
+    const now = new Date().toISOString();
+    let n = 0;
+    const item = (productId, amount) => ({
+      id: 'seed-' + (++n), userId: null, productId, amount, addedAt: now, source: 'zakupy',
+    });
+    const pantry = [
+      item('jajka', 8),
+      item('mleko', 100),
+      item('papryka-czerwona', 200),
+      item('pomidory', 190),        // brakuje 10 z 200, czyli "prawie"
+      item('ser-zolty', 100),
+      item('natka', 10),
+      item('olej', 500),
+      item('ryz', 700),
+      item('cebula', 400),
+      item('smietana-18', 180),     // brakuje 20 z 200, czyli "prawie"
+      item('makaron-swiderki', 380),
+      item('pieczarki', 400),
+    ];
+    localStorage.setItem('zr.pantry.v1', JSON.stringify(pantry));
+
+    // Plan z trzema daniami: jedno przypiete, jedno juz ugotowane.
+    localStorage.setItem('zr.plan.v2', JSON.stringify({
+      id: 'seed-plan', userId: null, createdAt: now, people: 4,
+      entries: [
+        { recipeId: 'omlet-z-warzywami', cooked: false, pinned: true, consumption: null },
+        { recipeId: 'spaghetti-bolognese', cooked: false, pinned: false, consumption: null },
+        { recipeId: 'risotto-z-pieczarkami', cooked: true, pinned: false,
+          consumption: [{ productId: 'pieczarki', amount: 400 }, { productId: 'ryz', amount: 350 }] },
+      ],
+      boughtProductIds: [], skippedProductIds: [],
+    }));
+    frame.contentWindow.location.replace('/');
+  }
+  document.getElementById('seed').onclick = seedPantry;
+  // Wygodne przy zrzutach ekranu: podglad.html#seed wypelnia od razu.
+  if (location.hash === '#seed') setTimeout(seedPantry, 600);
+
+  // Diagnostyka: czy tresc aplikacji przerasta okno telefonu.
+  const diag = document.getElementById('diag');
+  function measure() {
+    try {
+      const d = frame.contentDocument;
+      if (!d) return;
+      const content = d.documentElement.scrollHeight;
+      const view = frame.clientHeight;
+      const over = content - view;
+      diag.textContent = 'tresc ' + content + ' px, okno ' + view + ' px, '
+        + (over > 1 ? ('PRZEROST o ' + over + ' px') : 'miesci sie');
+      diag.style.color = over > 1 ? '#E2A93B' : '#6E6F73';
+    } catch (e) { diag.textContent = 'pomiar niedostepny'; }
+  }
+  frame.addEventListener('load', () => setTimeout(measure, 1200));
+  setInterval(measure, 2000);
+
+  pick(Number(localStorage.getItem('zr.preview.device') ?? 1));
+</script>
+
+</body>
+</html>

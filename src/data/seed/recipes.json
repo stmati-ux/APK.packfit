@@ -1,0 +1,4250 @@
+[
+  {
+    "id": "spaghetti-bolognese",
+    "name": "Spaghetti bolognese",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wieprzowina",
+      "wolowina",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "mielone",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Cebule i czosnek zeszklij na oliwie. Dodaj mieso mielone i smaz do zrumienienia. Wlej passate z koncentratem, dodaj starta marchew, dus 20 minut. Makaron ugotuj al dente, podaj z sosem i startym serem.",
+    "ingredients": [
+      {
+        "productId": "spaghetti",
+        "amount": 400
+      },
+      {
+        "productId": "mielone",
+        "amount": 500
+      },
+      {
+        "productId": "passata",
+        "amount": 500
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 60
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "marchew",
+        "amount": 100
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 60
+      },
+      {
+        "productId": "oliwa",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "kotlety-mielone",
+    "name": "Kotlety mielone z ziemniakami",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wieprzowina",
+      "wolowina",
+      "jajka",
+      "gluten"
+    ],
+    "mainCategory": "mielone",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Mieso wymieszaj z podsmazona cebula, jajkiem i bulka tarta, dopraw. Formuj kotlety i smaz na oleju po 5 minut z kazdej strony. Podaj z ziemniakami posypanymi koperkiem.",
+    "ingredients": [
+      {
+        "productId": "mielone",
+        "amount": 500
+      },
+      {
+        "productId": "bulka-tarta",
+        "amount": 80
+      },
+      {
+        "productId": "jajka",
+        "amount": 1
+      },
+      {
+        "productId": "cebula",
+        "amount": 120
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 1000
+      },
+      {
+        "productId": "koperek",
+        "amount": 15
+      },
+      {
+        "productId": "olej",
+        "amount": 60
+      },
+      {
+        "productId": "sol",
+        "amount": 10
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "klopsiki-w-sosie",
+    "name": "Klopsiki w sosie pomidorowym",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wieprzowina",
+      "wolowina",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "mielone",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Z miesa, jajka i bulki tartej uformuj klopsiki, obsmaz. Zalej passata z koncentratem i podsmazona cebula, dus 15 minut. Na koncu wmieszaj smietane. Podaj z ryzem i natka.",
+    "ingredients": [
+      {
+        "productId": "mielone",
+        "amount": 500
+      },
+      {
+        "productId": "bulka-tarta",
+        "amount": 60
+      },
+      {
+        "productId": "jajka",
+        "amount": 1
+      },
+      {
+        "productId": "passata",
+        "amount": 500
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 40
+      },
+      {
+        "productId": "cebula",
+        "amount": 120
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 100
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "natka",
+        "amount": 15
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-sosem-miesnym",
+    "name": "Makaron z sosem mięsnym i papryką",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wieprzowina",
+      "wolowina",
+      "gluten"
+    ],
+    "mainCategory": "mielone",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Podsmaz cebule z czosnkiem, dodaj mieso i pokrojona papryke. Wlej pomidory z puszki, dopraw papryka slodka, dus 15 minut. Wymieszaj z ugotowanym makaronem.",
+    "ingredients": [
+      {
+        "productId": "makaron-swiderki",
+        "amount": 400
+      },
+      {
+        "productId": "mielone",
+        "amount": 400
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 300
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 120
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "papryka-mielona",
+        "amount": 5
+      },
+      {
+        "productId": "olej",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "kurczak-w-smietanie",
+    "name": "Kurczak w sosie śmietanowym z ryżem",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "drob",
+      "laktoza"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Pokrojona piers obsmaz na oleju, odloz. Na tej samej patelni zeszklij cebule i pieczarki. Wroc z miesem, wlej smietane, dus 10 minut. Podaj z ryzem i natka.",
+    "ingredients": [
+      {
+        "productId": "piers-kurczaka",
+        "amount": 600
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 200
+      },
+      {
+        "productId": "pieczarki",
+        "amount": 250
+      },
+      {
+        "productId": "cebula",
+        "amount": 100
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "olej",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "curry-z-kurczaka",
+    "name": "Curry z kurczaka",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "drob"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Cebule i czosnek podsmaz, dodaj curry i przez chwile praz. Dorzuc kurczaka i papryke, obsmaz, wlej pomidory z puszki. Dus 20 minut, podaj z ryzem.",
+    "ingredients": [
+      {
+        "productId": "piers-kurczaka",
+        "amount": 600
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 200
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "curry",
+        "amount": 12
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "kurczak-pieczony-z-warzywami",
+    "name": "Kurczak pieczony z warzywami",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "drob"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Udka natrzyj oliwa, majerankiem i tymiankiem. Ziemniaki, marchew i pora pokroj, wymieszaj z reszta oliwy. Piecz razem 40 minut w 200 stopniach.",
+    "ingredients": [
+      {
+        "productId": "udka-kurczaka",
+        "amount": 900
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 900
+      },
+      {
+        "productId": "marchew",
+        "amount": 300
+      },
+      {
+        "productId": "por",
+        "amount": 1
+      },
+      {
+        "productId": "oliwa",
+        "amount": 30
+      },
+      {
+        "productId": "majeranek",
+        "amount": 4
+      },
+      {
+        "productId": "tymianek",
+        "amount": 3
+      },
+      {
+        "productId": "sol",
+        "amount": 10
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-kurczakiem-brokul",
+    "name": "Makaron z kurczakiem i brokułami",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "drob",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Brokul podgotuj 4 minuty. Kurczaka obsmaz z czosnkiem na oliwie. Dodaj brokul i smietane, zagotuj. Wymieszaj z makaronem i serem.",
+    "ingredients": [
+      {
+        "productId": "makaron-swiderki",
+        "amount": 400
+      },
+      {
+        "productId": "piers-kurczaka",
+        "amount": 500
+      },
+      {
+        "productId": "brokul",
+        "amount": 500
+      },
+      {
+        "productId": "smietana-30",
+        "amount": 200
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 80
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "oliwa",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "udka-pieczone-ziemniaki",
+    "name": "Udka pieczone z ziemniakami",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "drob"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Udka natrzyj olejem, papryka slodka, majerankiem i czosnkiem. Ziemniaki pokroj w cwiartki. Piecz razem 40 minut w 200 stopniach.",
+    "ingredients": [
+      {
+        "productId": "udka-kurczaka",
+        "amount": 1000
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 1000
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "papryka-mielona",
+        "amount": 6
+      },
+      {
+        "productId": "majeranek",
+        "amount": 4
+      },
+      {
+        "productId": "olej",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 10
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "schabowy",
+    "name": "Schabowy z ziemniakami i surówką",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wieprzowina",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "wieprzowina",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Schab rozbij, dopraw, panieruj w mace, jajku i bulce tartej. Smaz na oleju po 4 minuty z kazdej strony. Kapuste i marchew poszatkuj, wymieszaj ze smietana. Podaj z ziemniakami.",
+    "ingredients": [
+      {
+        "productId": "schab",
+        "amount": 600
+      },
+      {
+        "productId": "jajka",
+        "amount": 2
+      },
+      {
+        "productId": "bulka-tarta",
+        "amount": 150
+      },
+      {
+        "productId": "maka",
+        "amount": 80
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 1000
+      },
+      {
+        "productId": "kapusta-biala",
+        "amount": 400
+      },
+      {
+        "productId": "marchew",
+        "amount": 100
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 100
+      },
+      {
+        "productId": "olej",
+        "amount": 100
+      },
+      {
+        "productId": "sol",
+        "amount": 10
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "gulasz-wieprzowy",
+    "name": "Gulasz wieprzowy z kaszą",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wieprzowina"
+    ],
+    "mainCategory": "wieprzowina",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Schab pokroj w kostke i obsmaz. Dodaj cebule i papryke, podsmaz. Wmieszaj koncentrat i przyprawy, podlej woda, dus 25 minut. Podaj z kasza gryczana.",
+    "ingredients": [
+      {
+        "productId": "schab",
+        "amount": 600
+      },
+      {
+        "productId": "cebula",
+        "amount": 200
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 200
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 60
+      },
+      {
+        "productId": "kasza-gryczana",
+        "amount": 300
+      },
+      {
+        "productId": "papryka-mielona",
+        "amount": 8
+      },
+      {
+        "productId": "majeranek",
+        "amount": 3
+      },
+      {
+        "productId": "tymianek",
+        "amount": 3
+      },
+      {
+        "productId": "olej",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 10
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "leczo-z-kielbasa",
+    "name": "Leczo z kiełbasą",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wieprzowina"
+    ],
+    "mainCategory": "wieprzowina",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Kielbase pokroj i podsmaz. Dodaj cebule i papryke, smaz 10 minut. Dorzuc pomidory i koncentrat, dopraw papryka slodka i szczypta cukru. Dus 15 minut, podaj z chlebem.",
+    "ingredients": [
+      {
+        "productId": "kielbasa",
+        "amount": 400
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 200
+      },
+      {
+        "productId": "pomidory",
+        "amount": 400
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 50
+      },
+      {
+        "productId": "chleb",
+        "amount": 250
+      },
+      {
+        "productId": "papryka-mielona",
+        "amount": 6
+      },
+      {
+        "productId": "cukier",
+        "amount": 5
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "bigos-szybki",
+    "name": "Bigos szybki",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wieprzowina"
+    ],
+    "mainCategory": "wieprzowina",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Boczek i kielbase podsmaz z cebula. Dodaj obie kapusty i koncentrat. Dopraw majerankiem i pieprzem, dus pod przykryciem 30 minut. Podaj z chlebem.",
+    "ingredients": [
+      {
+        "productId": "kapusta-kiszona",
+        "amount": 500
+      },
+      {
+        "productId": "kapusta-biala",
+        "amount": 400
+      },
+      {
+        "productId": "kielbasa",
+        "amount": 300
+      },
+      {
+        "productId": "boczek",
+        "amount": 150
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 40
+      },
+      {
+        "productId": "chleb",
+        "amount": 250
+      },
+      {
+        "productId": "majeranek",
+        "amount": 5
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "fasolka-po-bretonsku",
+    "name": "Fasolka po bretońsku",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wieprzowina"
+    ],
+    "mainCategory": "wieprzowina",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Boczek i kielbase podsmaz z cebula. Dodaj odsaczona fasole, passate i koncentrat. Dopraw majerankiem, gotuj 20 minut. Podaj z chlebem.",
+    "ingredients": [
+      {
+        "productId": "fasola-czerwona",
+        "amount": 800
+      },
+      {
+        "productId": "kielbasa",
+        "amount": 300
+      },
+      {
+        "productId": "boczek",
+        "amount": 100
+      },
+      {
+        "productId": "passata",
+        "amount": 500
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 40
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "chleb",
+        "amount": 250
+      },
+      {
+        "productId": "majeranek",
+        "amount": 5
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "dorsz-pieczony",
+    "name": "Dorsz pieczony z ziemniakami i mizerią",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "ryba",
+      "laktoza"
+    ],
+    "mainCategory": "ryba",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Dorsza rozmroz, osusz, dopraw i skrop oliwa. Piecz 20 minut w 200 stopniach z masłem. Ogorki pokroj w plastry, wymieszaj ze smietana i koperkiem. Podaj z ziemniakami.",
+    "ingredients": [
+      {
+        "productId": "dorsz-mrozony",
+        "amount": 800
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 1000
+      },
+      {
+        "productId": "ogorek-swiezy",
+        "amount": 2
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 150
+      },
+      {
+        "productId": "maslo",
+        "amount": 40
+      },
+      {
+        "productId": "koperek",
+        "amount": 20
+      },
+      {
+        "productId": "oliwa",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "losos-z-ryzem",
+    "name": "Łosoś z fasolką i ryżem",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "ryba"
+    ],
+    "mainCategory": "ryba",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Lososia dopraw i smaz na oliwie po 4 minuty z kazdej strony. Fasolke ugotuj 6 minut. Podaj z ryzem i koperkiem.",
+    "ingredients": [
+      {
+        "productId": "losos",
+        "amount": 600
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "fasolka-szparagowa",
+        "amount": 400
+      },
+      {
+        "productId": "koperek",
+        "amount": 15
+      },
+      {
+        "productId": "oliwa",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-tunczykiem",
+    "name": "Makaron z tuńczykiem i pomidorami",
+    "baseServings": 4,
+    "timeMinutes": 25,
+    "tags": [
+      "ryba",
+      "gluten"
+    ],
+    "mainCategory": "ryba",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Cebule i czosnek zeszklij na oliwie. Dodaj pomidory z puszki, gotuj 10 minut. Wmieszaj odsaczonego tunczyka i makaron, posyp natka.",
+    "ingredients": [
+      {
+        "productId": "spaghetti",
+        "amount": 400
+      },
+      {
+        "productId": "tunczyk",
+        "amount": 340
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 100
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "natka",
+        "amount": 15
+      },
+      {
+        "productId": "oliwa",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "nalesniki-ze-szpinakiem",
+    "name": "Naleśniki ze szpinakiem i twarogiem",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "nabial",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Z maki, mleka i jajek zrob ciasto, usmaz nalesniki. Szpinak podsmaz z czosnkiem, wymieszaj z twarogiem, dopraw. Nadziej nalesniki, posyp serem i zapiecz 10 minut.",
+    "ingredients": [
+      {
+        "productId": "maka",
+        "amount": 400
+      },
+      {
+        "productId": "mleko",
+        "amount": 700
+      },
+      {
+        "productId": "jajka",
+        "amount": 3
+      },
+      {
+        "productId": "szpinak-mrozony",
+        "amount": 450
+      },
+      {
+        "productId": "twarog",
+        "amount": 250
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 150
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "olej",
+        "amount": 40
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "omlet-z-warzywami",
+    "name": "Omlet z warzywami",
+    "baseServings": 4,
+    "timeMinutes": 20,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "laktoza"
+    ],
+    "mainCategory": "jajka",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Jajka roztrzep z mlekiem i przyprawami. Papryke i pomidory podsmaz na oleju. Zalej masa jajeczna, smaz pod przykryciem 8 minut, posyp serem i natka.",
+    "ingredients": [
+      {
+        "productId": "jajka",
+        "amount": 8
+      },
+      {
+        "productId": "mleko",
+        "amount": 100
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 200
+      },
+      {
+        "productId": "pomidory",
+        "amount": 200
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 100
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "jajecznica-z-boczkiem",
+    "name": "Jajecznica z boczkiem",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "wieprzowina",
+      "jajka",
+      "laktoza"
+    ],
+    "mainCategory": "jajka",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Boczek pokroj i wysmaz na chrupko. Dodaj masło i roztrzepane jajka. Mieszaj na malym ogniu do sciecia, posyp koperkiem. Podaj z chlebem.",
+    "ingredients": [
+      {
+        "productId": "jajka",
+        "amount": 8
+      },
+      {
+        "productId": "boczek",
+        "amount": 150
+      },
+      {
+        "productId": "maslo",
+        "amount": 30
+      },
+      {
+        "productId": "chleb",
+        "amount": 400
+      },
+      {
+        "productId": "koperek",
+        "amount": 10
+      },
+      {
+        "productId": "sol",
+        "amount": 5
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "placki-ziemniaczane",
+    "name": "Placki ziemniaczane ze śmietaną",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Ziemniaki i cebule zetrzyj, odcisnij. Wymieszaj z jajkami, maka i przyprawami. Smaz placki na oleju po 3 minuty z kazdej strony. Podaj ze smietana.",
+    "ingredients": [
+      {
+        "productId": "ziemniaki",
+        "amount": 1200
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "jajka",
+        "amount": 2
+      },
+      {
+        "productId": "maka",
+        "amount": 100
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 200
+      },
+      {
+        "productId": "olej",
+        "amount": 120
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-pomidorowa",
+    "name": "Zupa pomidorowa z ryżem",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Marchew i pora ugotuj w wodzie z bulionem. Wlej passate z koncentratem, dopraw szczypta cukru. Zabiel smietana, podaj z ryzem i natka.",
+    "ingredients": [
+      {
+        "productId": "passata",
+        "amount": 500
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 60
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "por",
+        "amount": 1
+      },
+      {
+        "productId": "ryz",
+        "amount": 200
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 150
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "cukier",
+        "amount": 5
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-jarzynowa",
+    "name": "Zupa jarzynowa",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Ziemniaki, marchew i pora ugotuj w wodzie z bulionem. Dodaj mieszanke warzywna i groszek, gotuj 10 minut. Zabiel smietana, posyp koperkiem.",
+    "ingredients": [
+      {
+        "productId": "mieszanka-warzywna",
+        "amount": 450
+      },
+      {
+        "productId": "groszek-konserwowy",
+        "amount": 200
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 500
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "por",
+        "amount": 1
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 150
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "koperek",
+        "amount": 15
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "krem-z-brokulow",
+    "name": "Krem z brokułów",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Cebule zeszklij na oliwie, dodaj brokul i ziemniaki, zalej woda z bulionem. Gotuj 20 minut, zblenduj, wmieszaj smietane. Podaj z chlebem.",
+    "ingredients": [
+      {
+        "productId": "brokul",
+        "amount": 700
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 300
+      },
+      {
+        "productId": "cebula",
+        "amount": 100
+      },
+      {
+        "productId": "smietana-30",
+        "amount": 200
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "chleb",
+        "amount": 200
+      },
+      {
+        "productId": "oliwa",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "soczewica-curry",
+    "name": "Soczewica curry z ryżem",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Cebule, czosnek i marchew podsmaz na oleju, dodaj curry. Wsyp soczewice, wlej pomidory i wode, gotuj 25 minut. Podaj z ryzem.",
+    "ingredients": [
+      {
+        "productId": "soczewica",
+        "amount": 400
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "curry",
+        "amount": 12
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-warzywami-feta",
+    "name": "Makaron z warzywami i fetą",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wegetarianskie",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Papryke i pomidory podsmaz na oliwie z czosnkiem. Wymieszaj z makaronem, dodaj pokruszona fete i natke.",
+    "ingredients": [
+      {
+        "productId": "makaron-swiderki",
+        "amount": 400
+      },
+      {
+        "productId": "feta",
+        "amount": 200
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 250
+      },
+      {
+        "productId": "pomidory",
+        "amount": 300
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "natka",
+        "amount": 15
+      },
+      {
+        "productId": "oliwa",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "risotto-z-pieczarkami",
+    "name": "Risotto z pieczarkami",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Cebule zeszklij na oliwie, dodaj pieczarki i smaz 8 minut. Wsyp ryz, dolewaj bulion partiami mieszajac przez 20 minut. Na koncu wmieszaj masło i ser, posyp natka.",
+    "ingredients": [
+      {
+        "productId": "ryz",
+        "amount": 350
+      },
+      {
+        "productId": "pieczarki",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "maslo",
+        "amount": 50
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 100
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "oliwa",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "tortille-z-kurczakiem",
+    "name": "Tortille z kurczakiem i warzywami",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "drob",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Kurczaka pokroj w paski, dopraw papryka slodka i obsmaz z cebula i papryka. Dodaj odsaczona kukurydze. Naklada na podgrzane tortille z jogurtem.",
+    "ingredients": [
+      {
+        "productId": "tortille",
+        "amount": 8
+      },
+      {
+        "productId": "piers-kurczaka",
+        "amount": 500
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 250
+      },
+      {
+        "productId": "cebula",
+        "amount": 120
+      },
+      {
+        "productId": "kukurydza",
+        "amount": 200
+      },
+      {
+        "productId": "jogurt-naturalny",
+        "amount": 200
+      },
+      {
+        "productId": "papryka-mielona",
+        "amount": 6
+      },
+      {
+        "productId": "olej",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "id": "kasza-z-pieczarkami",
+    "name": "Kasza gryczana z pieczarkami",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Kasze ugotuj. Cebule zesmaz na zloto, dodaj pieczarki i smaz 10 minut. Wymieszaj z kasza, dopraw majerankiem, posyp natka.",
+    "ingredients": [
+      {
+        "productId": "kasza-gryczana",
+        "amount": 300
+      },
+      {
+        "productId": "pieczarki",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 200
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "majeranek",
+        "amount": 4
+      },
+      {
+        "productId": "olej",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-brokulem",
+    "name": "Makaron z brokułem i czosnkiem",
+    "baseServings": 4,
+    "timeMinutes": 25,
+    "tags": [
+      "wegetarianskie",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Brokul podgotuj 5 minut. Czosnek zesmaz na oliwie na zloto. Wymieszaj z makaronem, posyp serem.",
+    "ingredients": [
+      {
+        "productId": "makaron-swiderki",
+        "amount": 400
+      },
+      {
+        "productId": "brokul",
+        "amount": 500
+      },
+      {
+        "productId": "czosnek",
+        "amount": 16
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 60
+      },
+      {
+        "productId": "oliwa",
+        "amount": 40
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "spaghetti-aglio-olio",
+    "name": "Spaghetti aglio e olio",
+    "baseServings": 4,
+    "timeMinutes": 20,
+    "tags": [
+      "wegetarianskie",
+      "weganskie",
+      "gluten"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Czosnek pokroj w plasterki i podsmaz na oliwie z chili. Wymieszaj z makaronem i natka.",
+    "ingredients": [
+      {
+        "productId": "spaghetti",
+        "amount": 400
+      },
+      {
+        "productId": "czosnek",
+        "amount": 20
+      },
+      {
+        "productId": "oliwa",
+        "amount": 60
+      },
+      {
+        "productId": "natka",
+        "amount": 15
+      },
+      {
+        "productId": "chili",
+        "amount": 3
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-cukinia-feta",
+    "name": "Makaron z cukinią i fetą",
+    "baseServings": 4,
+    "timeMinutes": 25,
+    "tags": [
+      "wegetarianskie",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Cukinie pokroj w polplasterki i podsmaz z czosnkiem. Wymieszaj z makaronem, dodaj pokruszona fete.",
+    "ingredients": [
+      {
+        "productId": "makaron-swiderki",
+        "amount": 400
+      },
+      {
+        "productId": "cukinia",
+        "amount": 400
+      },
+      {
+        "productId": "feta",
+        "amount": 200
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "oliwa",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-pieczarkami",
+    "name": "Makaron z pieczarkami w śmietanie",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wegetarianskie",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Cebule i pieczarki smaz 10 minut. Wlej smietane, zagotuj. Wymieszaj z makaronem, posyp natka.",
+    "ingredients": [
+      {
+        "productId": "makaron-swiderki",
+        "amount": 400
+      },
+      {
+        "productId": "pieczarki",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 200
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 60
+      },
+      {
+        "productId": "olej",
+        "amount": 20
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "spaghetti-carbonara",
+    "name": "Spaghetti carbonara",
+    "baseServings": 4,
+    "timeMinutes": 25,
+    "tags": [
+      "wieprzowina",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "wieprzowina",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Boczek wysmaz na chrupko z czosnkiem. Jajka roztrzep z tartym serem. Goracy makaron wymieszaj z boczkiem, zdejmij z ognia i wmieszaj mase jajeczna.",
+    "ingredients": [
+      {
+        "productId": "spaghetti",
+        "amount": 400
+      },
+      {
+        "productId": "boczek",
+        "amount": 200
+      },
+      {
+        "productId": "jajka",
+        "amount": 4
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 100
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-indykiem",
+    "name": "Makaron z indykiem i szpinakiem",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "drob",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Indyka pokroj w paski i obsmaz z czosnkiem. Dodaj rozmrozony szpinak i smietane, dus 8 minut. Polacz z makaronem.",
+    "ingredients": [
+      {
+        "productId": "makaron-swiderki",
+        "amount": 400
+      },
+      {
+        "productId": "indyk",
+        "amount": 500
+      },
+      {
+        "productId": "szpinak-mrozony",
+        "amount": 450
+      },
+      {
+        "productId": "smietana-30",
+        "amount": 200
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "oliwa",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "makaron-ryzowy-z-warzywami",
+    "name": "Makaron ryżowy z warzywami",
+    "baseServings": 4,
+    "timeMinutes": 20,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Warzywa pokroj w paski i smaz na mocnym ogniu 6 minut z imbirem i czosnkiem. Makaron zalej wrzatkiem, odcedz i polacz.",
+    "ingredients": [
+      {
+        "productId": "makaron-ryzowy",
+        "amount": 250
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 250
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "imbir",
+        "amount": 10
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "id": "makaron-z-tunczykiem-oliwkami",
+    "name": "Makaron z tuńczykiem i oliwkami",
+    "baseServings": 4,
+    "timeMinutes": 25,
+    "tags": [
+      "ryba",
+      "gluten"
+    ],
+    "mainCategory": "ryba",
+    "dishCategory": "makarony",
+    "photoUrl": null,
+    "instructions": "Czosnek podsmaz na oliwie, dodaj pomidory z puszki i oliwki. Gotuj 10 minut, wmieszaj tunczyka i makaron.",
+    "ingredients": [
+      {
+        "productId": "spaghetti",
+        "amount": 400
+      },
+      {
+        "productId": "tunczyk",
+        "amount": 340
+      },
+      {
+        "productId": "oliwki",
+        "amount": 150
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "oliwa",
+        "amount": 25
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "id": "rosol",
+    "name": "Rosół z makaronem",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "drob",
+      "gluten"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Udka zalej woda, zbierz szumowiny. Dodaj wloszczyzne i lisc laurowy, gotuj 40 minut. Podaj z makaronem i natka.",
+    "ingredients": [
+      {
+        "productId": "udka-kurczaka",
+        "amount": 700
+      },
+      {
+        "productId": "wloszczyzna",
+        "amount": 450
+      },
+      {
+        "productId": "makaron-swiderki",
+        "amount": 200
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "lisc-laurowy",
+        "amount": 2
+      },
+      {
+        "productId": "sol",
+        "amount": 10
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-ogorkowa",
+    "name": "Zupa ogórkowa",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Ziemniaki i marchew ugotuj w bulionie. Dodaj starte ogorki kiszone, gotuj 10 minut. Zabiel smietana, posyp koperkiem.",
+    "ingredients": [
+      {
+        "productId": "ogorki-kiszone",
+        "amount": 400
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 600
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 150
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "koperek",
+        "amount": 15
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "krupnik",
+    "name": "Krupnik",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Kasze przeplucz. Wloszczyzne i ziemniaki ugotuj w bulionie, dodaj kasze i gotuj 20 minut. Posyp natka.",
+    "ingredients": [
+      {
+        "productId": "kasza-gryczana",
+        "amount": 150
+      },
+      {
+        "productId": "wloszczyzna",
+        "amount": 450
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 500
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-soczewicowa",
+    "name": "Zupa soczewicowa",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Wloszczyzne podsmaz, zalej woda z bulionem. Dodaj soczewice i ziemniaki, gotuj 25 minut. Dopraw czosnkiem i majerankiem.",
+    "ingredients": [
+      {
+        "productId": "soczewica",
+        "amount": 300
+      },
+      {
+        "productId": "wloszczyzna",
+        "amount": 450
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 400
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "majeranek",
+        "amount": 5
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "olej",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "barszcz-czerwony",
+    "name": "Barszcz czerwony z ziemniakami",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Buraki zetrzyj na tarce, gotuj z wloszczyzna w bulionie 30 minut. Dopraw octem i czosnkiem. Podaj z ziemniakami i koperkiem.",
+    "ingredients": [
+      {
+        "productId": "burak",
+        "amount": 800
+      },
+      {
+        "productId": "wloszczyzna",
+        "amount": 300
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 500
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "ocet",
+        "amount": 20
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "koperek",
+        "amount": 10
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "zupa-dyniowa",
+    "name": "Zupa krem z dyni",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Dynie, marchew i cebule podsmaz na oliwie. Zalej bulionem, gotuj 20 minut, zblenduj. Wmieszaj smietane i imbir.",
+    "ingredients": [
+      {
+        "productId": "dynia",
+        "amount": 900
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "smietana-30",
+        "amount": 200
+      },
+      {
+        "productId": "imbir",
+        "amount": 10
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "oliwa",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-kalafiorowa",
+    "name": "Zupa kalafiorowa",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Kalafior rozdziel na rozyczki. Ugotuj z ziemniakami i marchewka w bulionie. Zabiel smietana, posyp koperkiem.",
+    "ingredients": [
+      {
+        "productId": "kalafior",
+        "amount": 700
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 400
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 150
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "koperek",
+        "amount": 15
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-fasolowa",
+    "name": "Zupa fasolowa z boczkiem",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wieprzowina"
+    ],
+    "mainCategory": "wieprzowina",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Boczek podsmaz, dodaj wloszczyzne i ziemniaki, zalej woda. Gotuj 25 minut, dodaj fasole i koncentrat, dopraw majerankiem.",
+    "ingredients": [
+      {
+        "productId": "fasola-biala",
+        "amount": 800
+      },
+      {
+        "productId": "boczek",
+        "amount": 150
+      },
+      {
+        "productId": "wloszczyzna",
+        "amount": 300
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 400
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 40
+      },
+      {
+        "productId": "majeranek",
+        "amount": 5
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-cebulowa",
+    "name": "Zupa cebulowa z grzankami",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Cebule pokroj w piora i karmelizuj na masle 20 minut. Zalej bulionem, gotuj 15 minut. Podaj z grzankami i serem.",
+    "ingredients": [
+      {
+        "productId": "cebula",
+        "amount": 800
+      },
+      {
+        "productId": "maslo",
+        "amount": 40
+      },
+      {
+        "productId": "chleb",
+        "amount": 200
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 100
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 30
+      },
+      {
+        "productId": "tymianek",
+        "amount": 3
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-porowa",
+    "name": "Zupa porowa",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Pory pokroj w plastry i zesmaz na masle. Dodaj ziemniaki, zalej bulionem, gotuj 20 minut. Zblenduj ze smietana.",
+    "ingredients": [
+      {
+        "productId": "por",
+        "amount": 3
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 500
+      },
+      {
+        "productId": "smietana-30",
+        "amount": 200
+      },
+      {
+        "productId": "maslo",
+        "amount": 30
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zupa-soczewica-curry",
+    "name": "Zupa z czerwonej soczewicy z curry",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "zupy",
+    "photoUrl": null,
+    "instructions": "Cebule i marchew podsmaz z curry. Dodaj soczewice i pomidory z puszki, zalej woda z bulionem, gotuj 20 minut.",
+    "ingredients": [
+      {
+        "productId": "soczewica",
+        "amount": 300
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "curry",
+        "amount": 12
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "olej",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "jajka-sadzone-z-boczkiem",
+    "name": "Jajka sadzone z boczkiem",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "wieprzowina",
+      "jajka",
+      "gluten"
+    ],
+    "mainCategory": "jajka",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Boczek wysmaz na chrupko. Na tym samym tluszczu usmaz jajka sadzone. Podaj z chlebem i szczypiorkiem.",
+    "ingredients": [
+      {
+        "productId": "jajka",
+        "amount": 8
+      },
+      {
+        "productId": "boczek",
+        "amount": 150
+      },
+      {
+        "productId": "chleb",
+        "amount": 400
+      },
+      {
+        "productId": "szczypiorek",
+        "amount": 15
+      },
+      {
+        "productId": "sol",
+        "amount": 5
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "tost-z-serem",
+    "name": "Tosty z serem i pomidorem",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "wegetarianskie",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "nabial",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Chleb posmaruj maslem, uloz plastry sera i pomidora. Zapiecz 8 minut, posyp tymiankiem.",
+    "ingredients": [
+      {
+        "productId": "chleb",
+        "amount": 400
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 200
+      },
+      {
+        "productId": "pomidory",
+        "amount": 200
+      },
+      {
+        "productId": "maslo",
+        "amount": 40
+      },
+      {
+        "productId": "tymianek",
+        "amount": 2
+      },
+      {
+        "productId": "sol",
+        "amount": 3
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "salatka-z-tunczykiem",
+    "name": "Sałatka z tuńczykiem",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "ryba"
+    ],
+    "mainCategory": "ryba",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Kapuste poszatkuj, warzywa pokroj w kostke. Wymieszaj z odsaczonym tunczykiem i kukurydza, skrop oliwa.",
+    "ingredients": [
+      {
+        "productId": "tunczyk",
+        "amount": 340
+      },
+      {
+        "productId": "kukurydza",
+        "amount": 200
+      },
+      {
+        "productId": "ogorek-swiezy",
+        "amount": 2
+      },
+      {
+        "productId": "pomidory",
+        "amount": 300
+      },
+      {
+        "productId": "kapusta-pekinska",
+        "amount": 200
+      },
+      {
+        "productId": "oliwa",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 5
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "pasta-jajeczna",
+    "name": "Kanapki z pastą jajeczną",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "jajka",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Jajka ugotuj na twardo i posiekaj. Wymieszaj z jogurtem i szczypiorkiem, dopraw. Podaj na chlebie.",
+    "ingredients": [
+      {
+        "productId": "jajka",
+        "amount": 6
+      },
+      {
+        "productId": "jogurt-naturalny",
+        "amount": 100
+      },
+      {
+        "productId": "szczypiorek",
+        "amount": 15
+      },
+      {
+        "productId": "chleb",
+        "amount": 500
+      },
+      {
+        "productId": "sol",
+        "amount": 4
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "jajecznica-ze-szczypiorkiem",
+    "name": "Jajecznica ze szczypiorkiem",
+    "baseServings": 4,
+    "timeMinutes": 10,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "jajka",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Maslo rozpusc na patelni, wlej roztrzepane jajka. Mieszaj na malym ogniu do sciecia, posyp szczypiorkiem.",
+    "ingredients": [
+      {
+        "productId": "jajka",
+        "amount": 8
+      },
+      {
+        "productId": "maslo",
+        "amount": 30
+      },
+      {
+        "productId": "szczypiorek",
+        "amount": 20
+      },
+      {
+        "productId": "chleb",
+        "amount": 400
+      },
+      {
+        "productId": "sol",
+        "amount": 4
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "ryz-smazony-z-warzywami",
+    "name": "Ryż smażony z warzywami",
+    "baseServings": 4,
+    "timeMinutes": 20,
+    "tags": [
+      "wegetarianskie",
+      "jajka"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Ryz ugotuj i ostudz. Warzywa podsmaz na mocnym ogniu, dodaj ryz i roztrzepane jajka, mieszaj 3 minuty.",
+    "ingredients": [
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "mieszanka-warzywna",
+        "amount": 450
+      },
+      {
+        "productId": "jajka",
+        "amount": 3
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "salatka-grecka",
+    "name": "Sałatka grecka",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Pomidory, ogorki i cebule pokroj w kostke. Dodaj oliwki i pokruszona fete, skrop oliwa.",
+    "ingredients": [
+      {
+        "productId": "pomidory",
+        "amount": 400
+      },
+      {
+        "productId": "ogorek-swiezy",
+        "amount": 2
+      },
+      {
+        "productId": "feta",
+        "amount": 200
+      },
+      {
+        "productId": "oliwki",
+        "amount": 100
+      },
+      {
+        "productId": "cebula",
+        "amount": 100
+      },
+      {
+        "productId": "oliwa",
+        "amount": 40
+      },
+      {
+        "productId": "sol",
+        "amount": 4
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "tortilla-z-warzywami",
+    "name": "Tortille z warzywami i fasolą",
+    "baseServings": 4,
+    "timeMinutes": 20,
+    "tags": [
+      "wegetarianskie",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Papryke i cebule podsmaz, dodaj odsaczona fasole i kukurydze. Naklada na podgrzane tortille z jogurtem.",
+    "ingredients": [
+      {
+        "productId": "tortille",
+        "amount": 8
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 250
+      },
+      {
+        "productId": "kukurydza",
+        "amount": 200
+      },
+      {
+        "productId": "fasola-czerwona",
+        "amount": 400
+      },
+      {
+        "productId": "jogurt-naturalny",
+        "amount": 200
+      },
+      {
+        "productId": "cebula",
+        "amount": 120
+      },
+      {
+        "productId": "olej",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": "kanapki-z-makrela",
+    "name": "Kanapki z makrelą",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "ryba",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "ryba",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Makrele obierz ze skory i rozdrobnij widelcem. Chleb posmaruj maslem, uloz ryby, ogorka i szczypiorek.",
+    "ingredients": [
+      {
+        "productId": "makrela-wedzona",
+        "amount": 300
+      },
+      {
+        "productId": "chleb",
+        "amount": 500
+      },
+      {
+        "productId": "ogorek-swiezy",
+        "amount": 2
+      },
+      {
+        "productId": "maslo",
+        "amount": 40
+      },
+      {
+        "productId": "szczypiorek",
+        "amount": 15
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "omlet-z-serem",
+    "name": "Omlet z serem",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "laktoza"
+    ],
+    "mainCategory": "jajka",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Jajka roztrzep z mlekiem. Wylej na rozgrzane maslo, smaz pod przykryciem 6 minut. Posyp serem i szczypiorkiem.",
+    "ingredients": [
+      {
+        "productId": "jajka",
+        "amount": 8
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 150
+      },
+      {
+        "productId": "mleko",
+        "amount": 100
+      },
+      {
+        "productId": "maslo",
+        "amount": 30
+      },
+      {
+        "productId": "szczypiorek",
+        "amount": 10
+      },
+      {
+        "productId": "sol",
+        "amount": 4
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "salatka-z-ciecierzyca",
+    "name": "Sałatka z ciecierzycą",
+    "baseServings": 4,
+    "timeMinutes": 15,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Ciecierzyce odsacz i przeplucz. Warzywa pokroj w kostke, wymieszaj, skrop oliwa, posyp natka.",
+    "ingredients": [
+      {
+        "productId": "ciecierzyca",
+        "amount": 800
+      },
+      {
+        "productId": "pomidory",
+        "amount": 300
+      },
+      {
+        "productId": "ogorek-swiezy",
+        "amount": 2
+      },
+      {
+        "productId": "cebula",
+        "amount": 100
+      },
+      {
+        "productId": "oliwa",
+        "amount": 40
+      },
+      {
+        "productId": "natka",
+        "amount": 15
+      },
+      {
+        "productId": "sol",
+        "amount": 5
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "placki-z-cukinii",
+    "name": "Placki z cukinii",
+    "baseServings": 4,
+    "timeMinutes": 20,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "szybkie",
+    "photoUrl": null,
+    "instructions": "Cukinie zetrzyj i odcisnij. Wymieszaj z jajkami, maka i czosnkiem. Smaz placki po 3 minuty z kazdej strony.",
+    "ingredients": [
+      {
+        "productId": "cukinia",
+        "amount": 600
+      },
+      {
+        "productId": "jajka",
+        "amount": 3
+      },
+      {
+        "productId": "maka",
+        "amount": 120
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "olej",
+        "amount": 60
+      },
+      {
+        "productId": "koperek",
+        "amount": 15
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "leczo-warzywne",
+    "name": "Leczo warzywne z ryżem",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Cebule i papryke podsmaz, dodaj cukinie. Wlej pomidory i koncentrat, dus 20 minut. Podaj z ryzem.",
+    "ingredients": [
+      {
+        "productId": "papryka-czerwona",
+        "amount": 400
+      },
+      {
+        "productId": "cukinia",
+        "amount": 300
+      },
+      {
+        "productId": "cebula",
+        "amount": 200
+      },
+      {
+        "productId": "pomidory",
+        "amount": 400
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 50
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "papryka-mielona",
+        "amount": 6
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "gulasz-z-ciecierzycy",
+    "name": "Gulasz z ciecierzycy",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Cebule i papryke podsmaz z curry. Dodaj ciecierzyce i pomidory, dus 20 minut. Podaj z kasza jaglana.",
+    "ingredients": [
+      {
+        "productId": "ciecierzyca",
+        "amount": 800
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 250
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "curry",
+        "amount": 10
+      },
+      {
+        "productId": "kasza-jaglana",
+        "amount": 300
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "kasza-jaglana-z-warzywami",
+    "name": "Kasza jaglana z warzywami",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Kasze ugotuj. Warzywa podsmaz z czosnkiem 10 minut, wymieszaj z kasza, posyp natka.",
+    "ingredients": [
+      {
+        "productId": "kasza-jaglana",
+        "amount": 300
+      },
+      {
+        "productId": "mieszanka-warzywna",
+        "amount": 450
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "olej",
+        "amount": 30
+      },
+      {
+        "productId": "natka",
+        "amount": 10
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "zapiekanka-ziemniaczana",
+    "name": "Zapiekanka ziemniaczana",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Ziemniaki pokroj w plastry, przelozy podsmazona cebula. Zalej smietana z czosnkiem, posyp serem, piecz 35 minut.",
+    "ingredients": [
+      {
+        "productId": "ziemniaki",
+        "amount": 1200
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 200
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 200
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "maslo",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "kotlety-z-soczewicy",
+    "name": "Kotlety z soczewicy",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Soczewice ugotuj i rozgniec. Wymieszaj z podsmazona cebula, jajkiem i bulka tarta. Formuj kotlety i smaz.",
+    "ingredients": [
+      {
+        "productId": "soczewica",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "bulka-tarta",
+        "amount": 100
+      },
+      {
+        "productId": "jajka",
+        "amount": 2
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 800
+      },
+      {
+        "productId": "olej",
+        "amount": 50
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "warzywa-pieczone-z-feta",
+    "name": "Warzywa pieczone z fetą",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Warzywa pokroj, wymieszaj z oliwa i tymiankiem. Piecz 30 minut w 200 stopniach, na koncu posyp fetą.",
+    "ingredients": [
+      {
+        "productId": "ziemniaki",
+        "amount": 800
+      },
+      {
+        "productId": "cukinia",
+        "amount": 300
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 300
+      },
+      {
+        "productId": "feta",
+        "amount": 200
+      },
+      {
+        "productId": "oliwa",
+        "amount": 40
+      },
+      {
+        "productId": "tymianek",
+        "amount": 4
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "risotto-z-dynia",
+    "name": "Risotto z dynią",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Dynie pokroj w kostke i podsmaz z cebula. Wsyp ryz, dolewaj bulion partiami przez 20 minut. Wmieszaj maslo i ser.",
+    "ingredients": [
+      {
+        "productId": "ryz",
+        "amount": 350
+      },
+      {
+        "productId": "dynia",
+        "amount": 600
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "maslo",
+        "amount": 40
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 80
+      },
+      {
+        "productId": "bulion-kostki",
+        "amount": 20
+      },
+      {
+        "productId": "oliwa",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "kalafior-zapiekany",
+    "name": "Kalafior zapiekany",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Kalafior podgotuj 8 minut. Uloz w naczyniu, zalej smietana, posyp serem i bulka tarta, zapiecz 20 minut.",
+    "ingredients": [
+      {
+        "productId": "kalafior",
+        "amount": 900
+      },
+      {
+        "productId": "ser-zolty",
+        "amount": 200
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 200
+      },
+      {
+        "productId": "bulka-tarta",
+        "amount": 60
+      },
+      {
+        "productId": "maslo",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "nalesniki-z-serem",
+    "name": "Naleśniki z serem",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "nabial",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Z maki, mleka i jajek zrob ciasto, usmaz nalesniki. Twarog wymieszaj z cukrem, nadziej i zloz.",
+    "ingredients": [
+      {
+        "productId": "maka",
+        "amount": 400
+      },
+      {
+        "productId": "mleko",
+        "amount": 700
+      },
+      {
+        "productId": "jajka",
+        "amount": 3
+      },
+      {
+        "productId": "twarog",
+        "amount": 500
+      },
+      {
+        "productId": "cukier",
+        "amount": 40
+      },
+      {
+        "productId": "olej",
+        "amount": 40
+      },
+      {
+        "productId": "sol",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "fasolka-szparagowa-z-jajkiem",
+    "name": "Fasolka szparagowa z jajkiem",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Fasolke ugotuj 8 minut. Bulke tarta zrumien na masle. Jajka ugotuj na twardo, posiekaj i wymieszaj z fasolka.",
+    "ingredients": [
+      {
+        "productId": "fasolka-szparagowa",
+        "amount": 450
+      },
+      {
+        "productId": "jajka",
+        "amount": 4
+      },
+      {
+        "productId": "maslo",
+        "amount": 40
+      },
+      {
+        "productId": "bulka-tarta",
+        "amount": 40
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 800
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "buraki-z-kasza",
+    "name": "Buraki zasmażane z kaszą",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Buraki ugotuj i zetrzyj. Cebule zesmaz, polacz z burakami i smietana, dopraw. Podaj z kasza gryczana.",
+    "ingredients": [
+      {
+        "productId": "burak",
+        "amount": 800
+      },
+      {
+        "productId": "kasza-gryczana",
+        "amount": 300
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 150
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "curry-z-warzyw",
+    "name": "Curry z warzyw",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Cebule podsmaz z curry, dodaj warzywa i ciecierzyce. Wlej pomidory, dus 20 minut. Podaj z ryzem.",
+    "ingredients": [
+      {
+        "productId": "mieszanka-warzywna",
+        "amount": 450
+      },
+      {
+        "productId": "ciecierzyca",
+        "amount": 400
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "curry",
+        "amount": 12
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "zapiekane-baklazany",
+    "name": "Zapiekane bakłażany",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wegetarianskie",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Baklazany pokroj w plastry, posol i osusz. Obsmaz, przeloz passata z czosnkiem i mozzarella, zapiecz 25 minut.",
+    "ingredients": [
+      {
+        "productId": "baklazan",
+        "amount": 700
+      },
+      {
+        "productId": "passata",
+        "amount": 500
+      },
+      {
+        "productId": "mozzarella",
+        "amount": 250
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "oliwa",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "placki-z-kaszy-gryczanej",
+    "name": "Placki z kaszy gryczanej",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "gluten"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Kasze ugotuj i ostudz. Wymieszaj z jajkami, maka i podsmazona cebula. Smaz placki na zloto.",
+    "ingredients": [
+      {
+        "productId": "kasza-gryczana",
+        "amount": 300
+      },
+      {
+        "productId": "jajka",
+        "amount": 3
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "maka",
+        "amount": 80
+      },
+      {
+        "productId": "olej",
+        "amount": 50
+      },
+      {
+        "productId": "koperek",
+        "amount": 10
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "warzywa-stir-fry",
+    "name": "Warzywa stir-fry z ryżem",
+    "baseServings": 4,
+    "timeMinutes": 25,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Warzywa pokroj w paski. Smaz na mocnym ogniu 6 minut z imbirem i czosnkiem. Podaj z ryzem.",
+    "ingredients": [
+      {
+        "productId": "papryka-czerwona",
+        "amount": 300
+      },
+      {
+        "productId": "brokul",
+        "amount": 400
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "imbir",
+        "amount": 10
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "olej",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "id": "bigos-wegetarianski",
+    "name": "Bigos wegetariański",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Pieczarki i cebule podsmaz. Dodaj obie kapusty i koncentrat, dopraw majerankiem, dus 30 minut.",
+    "ingredients": [
+      {
+        "productId": "kapusta-kiszona",
+        "amount": 500
+      },
+      {
+        "productId": "kapusta-biala",
+        "amount": 400
+      },
+      {
+        "productId": "pieczarki",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 200
+      },
+      {
+        "productId": "koncentrat",
+        "amount": 40
+      },
+      {
+        "productId": "majeranek",
+        "amount": 5
+      },
+      {
+        "productId": "olej",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "szpinak-z-jajkiem",
+    "name": "Szpinak z jajkiem i ziemniakami",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "wegetarianskie",
+      "jajka",
+      "laktoza"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Szpinak podsmaz z czosnkiem, wmieszaj smietane. Jajka ugotuj na twardo. Podaj z ziemniakami.",
+    "ingredients": [
+      {
+        "productId": "szpinak-mrozony",
+        "amount": 450
+      },
+      {
+        "productId": "jajka",
+        "amount": 4
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 900
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 100
+      },
+      {
+        "productId": "maslo",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "ratatouille",
+    "name": "Ratatouille z ziemniakami",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wegetarianskie",
+      "weganskie"
+    ],
+    "mainCategory": "warzywa",
+    "dishCategory": "wegetarianskie",
+    "photoUrl": null,
+    "instructions": "Warzywa pokroj w kostke i podsmazaj kolejno. Polacz, dodaj czosnek, dus 25 minut. Podaj z ziemniakami.",
+    "ingredients": [
+      {
+        "productId": "baklazan",
+        "amount": 400
+      },
+      {
+        "productId": "cukinia",
+        "amount": 400
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 300
+      },
+      {
+        "productId": "pomidory",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 600
+      },
+      {
+        "productId": "oliwa",
+        "amount": 40
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "kurczak-stir-fry",
+    "name": "Kurczak stir-fry z warzywami",
+    "baseServings": 4,
+    "timeMinutes": 30,
+    "tags": [
+      "drob"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Kurczaka pokroj w paski i obsmaz na mocnym ogniu. Dodaj warzywa, imbir i czosnek, smaz 6 minut. Podaj z ryzem.",
+    "ingredients": [
+      {
+        "productId": "piers-kurczaka",
+        "amount": 600
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 300
+      },
+      {
+        "productId": "brokul",
+        "amount": 400
+      },
+      {
+        "productId": "marchew",
+        "amount": 200
+      },
+      {
+        "productId": "imbir",
+        "amount": 10
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "olej",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "indyk-w-warzywach",
+    "name": "Indyk duszony w warzywach",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "drob"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Indyka obsmaz, odloz. Podsmaz cukinie i papryke, wlej pomidory. Wroc z miesem, dus 15 minut. Podaj z kasza.",
+    "ingredients": [
+      {
+        "productId": "indyk",
+        "amount": 600
+      },
+      {
+        "productId": "cukinia",
+        "amount": 300
+      },
+      {
+        "productId": "papryka-czerwona",
+        "amount": 250
+      },
+      {
+        "productId": "pomidory-krojone",
+        "amount": 400
+      },
+      {
+        "productId": "kasza-jaglana",
+        "amount": 300
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "olej",
+        "amount": 25
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "id": "watrobka-z-cebula",
+    "name": "Wątróbka z cebulą",
+    "baseServings": 4,
+    "timeMinutes": 25,
+    "tags": [
+      "drob",
+      "gluten"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Watrobke obtocz w mace i smaz po 3 minuty z kazdej strony. Cebule zesmaz osobno na zloto, polacz. Podaj z ziemniakami.",
+    "ingredients": [
+      {
+        "productId": "watrobka",
+        "amount": 400
+      },
+      {
+        "productId": "cebula",
+        "amount": 400
+      },
+      {
+        "productId": "maka",
+        "amount": 60
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 900
+      },
+      {
+        "productId": "majeranek",
+        "amount": 4
+      },
+      {
+        "productId": "olej",
+        "amount": 40
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "karkowka-pieczona",
+    "name": "Karkówka pieczona z ziemniakami",
+    "baseServings": 4,
+    "timeMinutes": 45,
+    "tags": [
+      "wieprzowina"
+    ],
+    "mainCategory": "wieprzowina",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Karkowke natrzyj czosnkiem, majerankiem i papryka. Piecz z ziemniakami 40 minut w 200 stopniach.",
+    "ingredients": [
+      {
+        "productId": "karkowka",
+        "amount": 800
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 1000
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "majeranek",
+        "amount": 5
+      },
+      {
+        "productId": "papryka-mielona",
+        "amount": 6
+      },
+      {
+        "productId": "olej",
+        "amount": 30
+      },
+      {
+        "productId": "sol",
+        "amount": 10
+      },
+      {
+        "productId": "pieprz",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "klopsiki-wolowe",
+    "name": "Klopsiki wołowe w sosie",
+    "baseServings": 4,
+    "timeMinutes": 40,
+    "tags": [
+      "wolowina",
+      "jajka",
+      "gluten"
+    ],
+    "mainCategory": "mielone",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Z miesa, jajka i bulki tartej uformuj klopsiki, obsmaz. Zalej passata z cebula, dus 20 minut. Podaj z kasza.",
+    "ingredients": [
+      {
+        "productId": "mielone-wolowe",
+        "amount": 500
+      },
+      {
+        "productId": "jajka",
+        "amount": 1
+      },
+      {
+        "productId": "bulka-tarta",
+        "amount": 60
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "passata",
+        "amount": 500
+      },
+      {
+        "productId": "kasza-gryczana",
+        "amount": 300
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "sledz-w-smietanie",
+    "name": "Śledź w śmietanie z ziemniakami",
+    "baseServings": 4,
+    "timeMinutes": 25,
+    "tags": [
+      "ryba",
+      "laktoza"
+    ],
+    "mainCategory": "ryba",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Sledzie pokroj, cebule i ogorki posiekaj. Wymieszaj ze smietana, odstaw na 15 minut. Podaj z ziemniakami.",
+    "ingredients": [
+      {
+        "productId": "sledz",
+        "amount": 250
+      },
+      {
+        "productId": "cebula",
+        "amount": 200
+      },
+      {
+        "productId": "smietana-18",
+        "amount": 200
+      },
+      {
+        "productId": "ogorki-kiszone",
+        "amount": 200
+      },
+      {
+        "productId": "ziemniaki",
+        "amount": 900
+      },
+      {
+        "productId": "koperek",
+        "amount": 10
+      },
+      {
+        "productId": "pieprz",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": "krewetki-z-czosnkiem",
+    "name": "Krewetki z czosnkiem",
+    "baseServings": 4,
+    "timeMinutes": 20,
+    "tags": [
+      "ryba"
+    ],
+    "mainCategory": "ryba",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Krewetki rozmroz i osusz. Smaz na oliwie z czosnkiem i chili 4 minuty. Posyp natka, podaj z ryzem.",
+    "ingredients": [
+      {
+        "productId": "krewetki",
+        "amount": 400
+      },
+      {
+        "productId": "czosnek",
+        "amount": 20
+      },
+      {
+        "productId": "oliwa",
+        "amount": 40
+      },
+      {
+        "productId": "natka",
+        "amount": 15
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "chili",
+        "amount": 2
+      },
+      {
+        "productId": "sol",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "id": "kurczak-w-jogurcie",
+    "name": "Kurczak w jogurcie i curry",
+    "baseServings": 4,
+    "timeMinutes": 35,
+    "tags": [
+      "drob",
+      "laktoza"
+    ],
+    "mainCategory": "drob",
+    "dishCategory": "miesne",
+    "photoUrl": null,
+    "instructions": "Kurczaka zamarynuj w jogurcie z curry na 10 minut. Obsmaz z cebula i czosnkiem, dus 15 minut. Podaj z ryzem.",
+    "ingredients": [
+      {
+        "productId": "piers-kurczaka",
+        "amount": 600
+      },
+      {
+        "productId": "jogurt-grecki",
+        "amount": 300
+      },
+      {
+        "productId": "curry",
+        "amount": 12
+      },
+      {
+        "productId": "cebula",
+        "amount": 150
+      },
+      {
+        "productId": "czosnek",
+        "amount": 12
+      },
+      {
+        "productId": "ryz",
+        "amount": 300
+      },
+      {
+        "productId": "olej",
+        "amount": 20
+      },
+      {
+        "productId": "sol",
+        "amount": 8
+      }
+    ]
+  }
+]
